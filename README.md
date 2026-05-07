@@ -37,4 +37,4 @@ Landing page moderne conçue pour les startups SaaS, applications web, services 
 Clone le projet :
 
 ```bash
-git clone https://github.com/ton-username/ton-repository.git
+git clone [https://github.com/ton-username/ton-repository.git](https://github.com/fari-code/Foxart.git)
